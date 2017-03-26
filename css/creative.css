@@ -285,7 +285,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #003e7e;
+  color: white;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
